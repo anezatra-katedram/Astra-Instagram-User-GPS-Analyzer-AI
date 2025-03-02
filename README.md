@@ -1,5 +1,5 @@
 # Astra for Instagram: Identifying Instagram user post location 🤖
-![banner image](https://github.com/anezatra/Astra-Instagram-User-GPS-Analyzer-AI/blob/main/banner.png)
+![banner image](https://github.com/anezatra-katedram/Astra-Instagram-User-GPS-Analyzer-AI/blob/main/banner.png)
 # What is a Astra Project ?
 **ASTRA is an advanced AI-powered tool designed to detect the geographic location of an Instagram user's posts. Utilizing the Picarta API, it analyzes photos shared by the target user to extract geographical clues. The program downloads the user's posts and examines their EXIF data for GPS coordinates. If EXIF data is unavailable, Picarta's AI algorithms assess the image content to estimate possible locations.** <br/>
 
